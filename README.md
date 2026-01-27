@@ -6,7 +6,7 @@ You are probably looking for one of the pages below ⬇️
 
 ## Projects
 
-Here is an overview of projects that we have published on GitHub:
+Here is an overview of projects that we have published:
 
 - ### MS Amanda
 
@@ -18,7 +18,7 @@ Here is an overview of projects that we have published on GitHub:
 
   MS Ana is a scoring system to identify peptides in tandem mass spectrometry data using a library of previously identified spectra. Furthermore, MS Ana can create decoy spectral libraries for validation and run searches for additional modifications not found in the spectral library.:
 
-  [🔗 **Website**](https://ms.imp.ac.at/?action=ms-ana)
+  [🔗 **Website**](https://ms.imp.ac.at/?action=ms-ana) |
 
 - ### MS Annika
 

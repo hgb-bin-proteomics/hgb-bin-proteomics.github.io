@@ -12,7 +12,7 @@ Here is an overview of projects that we have published on GitHub:
 
   MS Amanda is a scoring system to identify peptides out of tandem mass spectrometry data using a database of known proteins:
 
-  [🔗 **Website**](https://ms.imp.ac.at/?action=ms-amanda) [💾 **Repository**](https://github.com/hgb-bin-proteomics/MSAmanda)
+  [🔗 **Website**](https://ms.imp.ac.at/?action=ms-amanda) | [💾 **Repository**](https://github.com/hgb-bin-proteomics/MSAmanda)
 
 - ### MS Ana
 
@@ -24,13 +24,13 @@ Here is an overview of projects that we have published on GitHub:
 
   MS Annika is a crosslink search engine based on MS Amanda, aimed at identifying crosslinks of cleavable and non-cleavable crosslinkers from MS2 and MS3 spectra:
 
-  [🔗 **Website**](https://hgb-bin-proteomics.github.io/MSAnnika/) [💾 **Repository**](https://github.com/hgb-bin-proteomics/MSAnnika)
+  [🔗 **Website**](https://hgb-bin-proteomics.github.io/MSAnnika/) | [💾 **Repository**](https://github.com/hgb-bin-proteomics/MSAnnika)
 
 - ### pyXLMS
 
   pyXLMS is a python package and web application with graphical user interface that aims to simplify and streamline the intermediate step of connecting crosslink search engine results with down-stream analysis tools:
 
-  [🔗 **Website**](https://hgb-bin-proteomics.github.io/pyXLMS/) [💾 **Repository**](https://github.com/hgb-bin-proteomics/pyXLMS)
+  [🔗 **Website**](https://hgb-bin-proteomics.github.io/pyXLMS/) | [💾 **Repository**](https://github.com/hgb-bin-proteomics/pyXLMS)
 
 *****
 

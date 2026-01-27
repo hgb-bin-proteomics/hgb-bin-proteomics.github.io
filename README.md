@@ -32,6 +32,9 @@ Here is an overview of projects that we have published:
 
   [🔗 **Website**](https://hgb-bin-proteomics.github.io/pyXLMS/) | [💾 **Repository**](https://github.com/hgb-bin-proteomics/pyXLMS)
 
+
+You can find out more about us here: [bioinformatics.fh-hagenberg.at/](https://bioinformatics.fh-hagenberg.at/)
+
 *****
 
 ## Contact

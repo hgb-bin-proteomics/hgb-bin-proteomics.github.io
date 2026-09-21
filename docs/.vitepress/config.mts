@@ -30,6 +30,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Software", link: "/software" },
+      { text: "Team", link: "/team" },
       { text: "Contact", link: "/contact" },
     ],
     sidebar: [

@@ -1,7 +1,20 @@
+---
+layout: home
+---
+
+<div style="text-align: center">
+
 # Contact
 
 You can find out more about us and contact us at:
 
-- Website: [bioinformatics.fh-hagenberg.at](https://bioinformatics.fh-hagenberg.at/)
-- GitHub: [github.com/hgb-bin-proteomics](https://github.com/hgb-bin-proteomics)
-- Mail: [proteomics@fh-hagenberg.at](mailto:proteomics@fh-hagenberg.at)
+**Website:**<br>
+[bioinformatics.fh-hagenberg.at](https://bioinformatics.fh-hagenberg.at/)
+
+**GitHub:**<br>
+[github.com/hgb-bin-proteomics](https://github.com/hgb-bin-proteomics)
+
+**Mail:**<br>
+[proteomics@fh-hagenberg.at](mailto:proteomics@fh-hagenberg.at)
+
+</div>

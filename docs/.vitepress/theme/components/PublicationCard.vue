@@ -8,6 +8,8 @@ interface Props {
   authors: string;
   /** Name of the journal. */
   journal: string;
+  /** Year of publication. Displayed in bold between journal and volume. */
+  year: string | number;
   /** Volume of the journal (optional). */
   volume?: string | number;
   /** Issue of the journal (optional). */
@@ -36,15 +38,15 @@ const linkAttrs = computed(() =>
 
 const identifier = computed(() => props.doi ?? props.url ?? "");
 
-const citation = computed(() => {
-  let text = props.journal;
+const volumeIssue = computed(() => {
+  const parts: string[] = [];
   if (props.volume !== undefined && props.volume !== "") {
-    text += `, Volume ${props.volume}`;
+    parts.push(`Volume ${props.volume}`);
   }
   if (props.issue !== undefined && props.issue !== "") {
-    text += `, Issue ${props.issue}`;
+    parts.push(`Issue ${props.issue}`);
   }
-  return text;
+  return parts.join(", ");
 });
 </script>
 
@@ -56,7 +58,10 @@ const citation = computed(() => {
   >
     <p class="publication-card__title">{{ title }}</p>
     <p class="publication-card__authors">{{ authors }}</p>
-    <p class="publication-card__journal">{{ citation }}</p>
+    <p class="publication-card__journal">
+      {{ journal }}, <strong class="publication-card__year">{{ year }}</strong
+      ><template v-if="volumeIssue">, {{ volumeIssue }}</template>
+    </p>
     <p v-if="identifier" class="publication-card__doi">
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -132,6 +137,11 @@ const citation = computed(() => {
   font-size: 14px;
   line-height: 1.5;
   color: var(--vp-c-text-2);
+}
+
+.publication-card__year {
+  font-weight: 700;
+  color: var(--vp-c-text-1);
 }
 
 .publication-card__doi {

@@ -37,8 +37,6 @@ export default defineConfig({
     sidebar: [
       {
         items: [
-          { text: "Software", link: "/software" },
-          { text: "Contact", link: "/contact" },
         ],
       },
     ],

@@ -15,7 +15,7 @@ Here is an overview of the software that we have published:
 <SoftwareCard
   title="MS Amanda"
   description="MS Amanda is a scoring system to identify peptides out of tandem mass spectrometry data using a database of known proteins."
-  logo="https://raw.githubusercontent.com/hgb-bin-proteomics/MSAmanda/refs/heads/master/logo/msamanda.jpg"
+  logo="https://raw.githubusercontent.com/hgb-bin-proteomics/hgb-bin-proteomics.github.io/refs/heads/master/logos/software/ms_amanda.png"
   website="https://ms.imp.ac.at/?action=ms-amanda"
   repository="https://github.com/hgb-bin-proteomics/MSAmanda"
   publication="https://doi.org/10.1021/pr500202e"
@@ -24,6 +24,7 @@ Here is an overview of the software that we have published:
 <SoftwareCard
   title="MS Ana"
   description="MS Ana is a scoring system to identify peptides in tandem mass spectrometry data using a library of previously identified spectra. Furthermore, MS Ana can create decoy spectral libraries for validation and run searches for additional modifications not found in the spectral library."
+  logo="https://raw.githubusercontent.com/hgb-bin-proteomics/hgb-bin-proteomics.github.io/refs/heads/master/logos/software/ms_ana.png"
   website="https://ms.imp.ac.at/?action=ms-ana"
   publication="https://doi.org/10.1021/acs.jproteome.2c00658"
 />

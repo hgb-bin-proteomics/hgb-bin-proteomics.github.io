@@ -42,7 +42,9 @@ Here is an overview of the software that we have published:
   title="MS Andrea"
   description="MS Andrea is an open modification search engine that is designed to directly identify peptide modifications on the PSM level. MS Andrea uses a sequence tag-based approach for filtering peptide candidates before score-based filtering and final scoring using the MS Amanda scoring function."
   logo="https://raw.githubusercontent.com/hgb-bin-proteomics/MSAndrea/refs/heads/main/Logo/MS_Andrea_logo_col.png"
+  website="https://hgb-bin-proteomics.github.io/MSAndrea/"
   repository="https://github.com/hgb-bin-proteomics/MSAndrea"
+  publication="https://doi.org/10.1021/acs.jproteome.6c00296"
 />
 
 <SoftwareCard
@@ -60,6 +62,7 @@ Here is an overview of the software that we have published:
   logo="https://raw.githubusercontent.com/hgb-bin-proteomics/READ/master/docs/logo/variations/square_rounded_corners_1024.png"
   website="https://hgb-bin-proteomics.github.io/READ/"
   repository="https://github.com/hgb-bin-proteomics/READ"
+  publication="https://doi.org/10.64898/2026.10.20.760427"
 />
 
 </div>

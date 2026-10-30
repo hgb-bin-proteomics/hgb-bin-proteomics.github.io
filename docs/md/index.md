@@ -36,8 +36,8 @@ features:
   - title: MS Andrea
     icon: 📈
     details: MSAndrea is an open modification search engine that is designed to directly identify peptide modifications on the PSM level.
-    link: https://github.com/hgb-bin-proteomics/MSAndrea
-    linkText: GitHub
+    link: https://hgb-bin-proteomics.github.io/MSAndrea/
+    linkText: Website
     target: __blank
   - title: pyXLMS
     icon: 🐍

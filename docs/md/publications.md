@@ -11,6 +11,16 @@ Here's a list of publications that we (co-)authored:
 </div>
 
 <PublicationCard
+  title="Beyond Delta Masses: MS Andrea Directly Resolves Combinatorial Peptide Modifications in Open Searches"
+  authors="Louise M. Buur, Stephan Winkler & Viktoria Dorfer"
+  journal="Journal of Proteome Research"
+  year="2026"
+  volume="25"
+  issue="11"
+  doi="10.1021/acs.jproteome.6c00296"
+/>
+
+<PublicationCard
   title="Unified down-stream analysis of crosslinking mass spectrometry results with pyXLMS"
   authors="Micha J. Birklbauer, Louise M. Buur, Sabrina Kaser, Fränze Müller, Manuel Matzinger, Karl Mechtler, Stephan Winkler & Viktoria Dorfer"
   journal="Nature Communications"
